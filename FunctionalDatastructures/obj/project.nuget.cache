@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IoqkEHw1DXOD00uNflqye5AaWmL20+EhpDVVIfC6YN0baDXMpR+UfEVje2NKbvh3J1rHZX/4WFgInWfqwM/Hqw==",
+  "success": true,
+  "projectFilePath": "/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 2/LazyQueueTests/FunctionalDatastructures/FunctionalDatastructures.fsproj",
+  "expectedPackageFiles": [
+    "/Users/NicFisker/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

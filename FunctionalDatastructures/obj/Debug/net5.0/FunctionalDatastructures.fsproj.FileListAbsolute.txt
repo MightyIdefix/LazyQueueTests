@@ -1,0 +1,8 @@
+/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 2/datastructures-nicfre/FunctionalDatastructures/bin/Debug/net5.0/FunctionalDatastructures.deps.json
+/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 2/datastructures-nicfre/FunctionalDatastructures/bin/Debug/net5.0/FunctionalDatastructures.dll
+/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 2/datastructures-nicfre/FunctionalDatastructures/bin/Debug/net5.0/FunctionalDatastructures.pdb
+/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 2/datastructures-nicfre/FunctionalDatastructures/obj/Debug/net5.0/FunctionalDatastructures.fsprojAssemblyReference.cache
+/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 2/datastructures-nicfre/FunctionalDatastructures/obj/Debug/net5.0/FunctionalDatastructures.AssemblyInfoInputs.cache
+/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 2/datastructures-nicfre/FunctionalDatastructures/obj/Debug/net5.0/FunctionalDatastructures.AssemblyInfo.fs
+/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 2/datastructures-nicfre/FunctionalDatastructures/obj/Debug/net5.0/FunctionalDatastructures.dll
+/Users/NicFisker/Desktop/Alt/ingeniør AU/6. Semester /Applied Functional Programing/Afleveringer/Aflevering 2/datastructures-nicfre/FunctionalDatastructures/obj/Debug/net5.0/FunctionalDatastructures.pdb
